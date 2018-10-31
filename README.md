@@ -2,13 +2,14 @@
 
 Describe the difference between a cookie, sessionStorage and localStorage.
   
-|                    |**Cookies**       |**Local Storage**  |**Session Storage**|
-|Capacity            |4kb               |10mb               |5mb                |
-|Browsers            |HTML4 / HTML5     |HTML5              |HTML5              |
-|Accessible from     |Any window        |Any window         |Same tab           |
-|Expires             |Manually set      |Never              |On tab close       |
-|Storage location    |Browser and server|Browser             Browser            |
-|Sent with requests  |Yes               |No                 |No                 | 
+|                    |Cookies           |Local Storage      |Session Storage |
+|--------------------|------------------|-------------------|----------------|  
+|Capacity            |4kb               |10mb               |5mb             |
+|Browsers            |HTML4 / HTML5     |HTML5              |HTML5           |
+|Accessible from     |Any window        |Any window         |Same tab        |
+|Expires             |Manually set      |Never              |On tab close    |
+|Storage location    |Browser and server|Browser             Browser         |
+|Sent with requests  |Yes               |No                 |No              | 
 
 JavaScript can create, read, and delete cookies with the document.cookie property.
 
