@@ -17,11 +17,11 @@ HTML web storage provides two objects for storing data on the client:
 - window.sessionStorage - stores data for one session (data is lost when the browser tab is closed)
 
 References:
-# https://www.w3schools.com/js/js_cookies.asp
-# https://www.youtube.com/watch?v=AwicscsvGLg&t=11s
-# https://developer.mozilla.org/en-US/docs/Web/API/document/cookie
-# https://www.codexpedia.com/javascript/javascript-create-read-and-delete-cookies/
-# https://www.w3schools.com/html/html5_webstorage.asp
-# https://alligator.io/js/introduction-localstorage-sessionstorage/
-# https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage
+- https://www.w3schools.com/js/js_cookies.asp
+- https://www.youtube.com/watch?v=AwicscsvGLg&t=11s
+- https://developer.mozilla.org/en-US/docs/Web/API/document/cookie
+- https://www.codexpedia.com/javascript/javascript-create-read-and-delete-cookies/
+- https://www.w3schools.com/html/html5_webstorage.asp
+- https://alligator.io/js/introduction-localstorage-sessionstorage/
+- https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage
 
