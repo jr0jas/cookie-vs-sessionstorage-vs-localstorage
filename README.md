@@ -1,6 +1,6 @@
 # cookie-vs-sessionstorage-vs-localstorage
 
-Describe the difference between a cookie, sessionStorage and localStorage.
+Describe the difference between a **cookie**, **sessionStorage** and **localStorage**.
   
 |                    |Cookies           |Local Storage      |Session Storage |
 |--------------------|------------------|-------------------|----------------|  
@@ -11,13 +11,13 @@ Describe the difference between a cookie, sessionStorage and localStorage.
 |Storage location    |Browser and server|Browser             Browser         |
 |Sent with requests  |Yes               |No                 |No              | 
 
-JavaScript can create, read, and delete cookies with the document.cookie property.
+JavaScript can create, read, and delete cookies with the **document.cookie** property.
 
 HTML web storage provides two objects for storing data on the client:
-- window.localStorage - stores data with no expiration date
-- window.sessionStorage - stores data for one session (data is lost when the browser tab is closed)
+- **window.localStorage** - stores data with no expiration date
+- **window.sessionStorage** - stores data for one session (data is lost when the browser tab is closed)
 
-References:
+## References:
 - https://www.w3schools.com/js/js_cookies.asp
 - https://www.youtube.com/watch?v=AwicscsvGLg&t=11s
 - https://developer.mozilla.org/en-US/docs/Web/API/document/cookie
